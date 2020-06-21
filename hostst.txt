@@ -1,0 +1,5 @@
+#moja lista domen do blokowania Pi-Hole
+#ogólna lista https://github.com/MajkiIT/polish-ads-filter/tree/master/polish-pihole-filters
+
+0.0.0.0 v.wpimg.pl
+0.0.0.0 www.v.wpimg.pl
